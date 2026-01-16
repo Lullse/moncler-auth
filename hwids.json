@@ -1,0 +1,14 @@
+{
+  "hwids": [
+    {
+      "hwid": "EXAMPLE-HWID-12345",
+      "username": "Lulle",
+      "note": "Lulle's main PC"
+    },
+    {
+      "hwid": "ANOTHER-HWID-67890",
+      "username": "Admin",
+      "note": "Admin laptop"
+    }
+  ]
+}
