@@ -1,13 +1,13 @@
 {
   "hwids": [
     {
-      "hwid": "EXAMPLE-HWID-12345",
-      "username": "Lulle",
-      "note": "Lulle's main PC"
+      "hwid": "163719719743924",
+      "username": "Suleyman",
+      "note": "Suleyman bara"
     },
     {
       "hwid": "249A3E4A-A571-7857-B144-0020726F5BF2",
-      "username": "Admin",
+      "username": "Admin-Lulle",
       "note": "Admin laptop"
     }
   ]
